@@ -1,3 +1,8 @@
+import java.util.Map;
+import java.util.HashMap;
+import java.util.List;
+//import Node
+
 class Solution {
     public Node cloneGraph(Node node) {
         if (node == null) return null;
@@ -21,4 +26,3 @@ class Solution {
         return clone;
     }
 }
-

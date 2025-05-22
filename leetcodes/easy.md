@@ -1,4 +1,4 @@
-# 🧠 Easy Problems – Summary
+# 🟢 Easy Problems – Summary
 
 This is a list of solved Easy-level LeetCode challenges:
 
