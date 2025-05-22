@@ -6,7 +6,7 @@ This document provides an overview of all LeetCode problems solved in this repos
 
 ## 🧠 Hard Problems
 
-- [**4** – Median of Two Sorted Arrays](solutions/0004_median_of_two_sorted_arrays/solution.py)
+- [**4** – Median of Two Sorted Arrays](solutions/0004_median_of_two_sorted_arrays/Solution.java)
 
 ---
 
