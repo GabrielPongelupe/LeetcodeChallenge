@@ -12,6 +12,7 @@ This document provides an overview of all LeetCode problems solved in this repos
 
 ## 🧩 Medium Problems
 
+- [**36** – Valid Sudoku](solutions/0036_valid_sudoku/solution.py)
 - [**79** – Word Search](solutions/0079_word_search/solution.py)  
 - [**133** – Clone Graph](solutions/0133_clone_graph/Solution.java)  
 - [**207** – Course Schedule](solutions/0207_course_schedule/Solution.java)  
